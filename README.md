@@ -1,6 +1,5 @@
 # Automobile Dataset – Exploratory Data Analysis (EDA)
 
-This project demonstrates a clean, reproducible exploratory data analysis (EDA) workflow using Python, Pandas, Matplotlib, and Seaborn.  
 The notebook focuses on data cleaning, transformation, and visual exploration of automobile characteristics such as price, fuel efficiency, engine size, and manufacturer trends.
 
 
